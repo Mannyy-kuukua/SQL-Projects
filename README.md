@@ -1,13 +1,17 @@
 # SQL-Projects
 This repository contains all projects done with SQL
 # 📝 Sales Overview of a Restaurant
-
+[Project Outline](#Project-Outline)
+[Key-Insights](#Key-Insights)
+[Recommendation](#Recommendation)
+[Tools & Technology](#Tools--Technology)
+[How to Use This Repo](#How-To-Use-This-Repo)
 This repository contains a SQL-based analysis of a dummy restaurant dataset downloaded from Kaggle.  
 The goal was to showcase revenue performance across five countries and highlight key sales trends, customer behavior, and revenue drivers.
 
 ---
 
-## 📂 Project Outline
+##  Project Outline
 
 1. **Database Creation** – Created a database to store and query the data.  
 2. **Data Importation** – Loaded the dataset using the SQL import wizard.  
@@ -28,7 +32,7 @@ The goal was to showcase revenue performance across five countries and highlight
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - **Total Orders:** 254  
 - **Total Revenue:** **$769,515.89**
@@ -68,7 +72,7 @@ The goal was to showcase revenue performance across five countries and highlight
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 - **Boost Underperforming Branches:** Focus marketing or promotional activities on Paris and Berlin to increase sales.  
 - **Enhance Strong Channels:** Invest in online ordering and in-store promotions in Lisbon and London to maximize revenue.  
@@ -79,14 +83,14 @@ The goal was to showcase revenue performance across five countries and highlight
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **SQL** (SELECT, FROM, WHERE, GROUP BY, ORDER BY)  
 - Basic data cleaning and transformation inside the database  
 
 ---
 
-## 📎 How to Use This Repo
+##  How to Use This Repo
 
 1. Clone the repository.  
 2. Import the SQL files into your preferred database.  
