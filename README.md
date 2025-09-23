@@ -1,7 +1,12 @@
-# SQL-Projects
-This repository contains all projects done with SQL
 #  Sales Overview of a Restaurant
 
+
+This repository contains a SQL-based analysis of a dummy restaurant dataset downloaded from Kaggle.  
+The goal was to showcase revenue performance across five countries and highlight key sales trends, customer behavior, and revenue drivers.
+
+
+--- 
+## Table Of Content
 * [Project Outline](#Project-Outline)
 * [Key-Insights](#Key-Insights)
 * [Recommendation](#Recommendation)
@@ -10,8 +15,7 @@ This repository contains all projects done with SQL
 
 
 ---
-This repository contains a SQL-based analysis of a dummy restaurant dataset downloaded from Kaggle.  
-The goal was to showcase revenue performance across five countries and highlight key sales trends, customer behavior, and revenue drivers.
+
 
 ---
 
