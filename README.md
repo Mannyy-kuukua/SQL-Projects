@@ -2,11 +2,11 @@
 This repository contains all projects done with SQL
 #  Sales Overview of a Restaurant
 
-[Project Outline](#Project-Outline)
-[Key-Insights](#Key-Insights)
-[Recommendation](#Recommendation)
-[Tools & Technology](#Tools--Technology)
-[How to Use This Repo](#How-To-Use-This-Repo)
+* [Project Outline](#Project-Outline)
+* [Key-Insights](#Key-Insights)
+* [Recommendation](#Recommendation)
+* [Tools & Technology](#Tools--Technology)
+* [How to Use This Repo](#How-To-Use-This-Repo)
 
 
 ---
