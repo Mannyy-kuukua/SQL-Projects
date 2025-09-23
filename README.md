@@ -8,9 +8,9 @@ The goal was to showcase revenue performance across five countries and highlight
 --- 
 ## Table Of Content
 * [Project Outline](#Project-Outline)
-* [Key-Insights](#Key-Insights)
-* [Recommendation](#Recommendation)
-* [Tools & Technology](#Tools--Technology)
+* [KeyInsights](#Key-Insights)
+* [Recommendations](#Recommendations)
+* [Tools & Technologies](#Tools--Technologies)
 * [How to Use This Repo](#How-To-Use-This-Repo)
 
 
